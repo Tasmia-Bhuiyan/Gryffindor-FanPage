@@ -1,9 +1,11 @@
+
+
 #background {
     background-color: #b31900;
 }
 
 #background2 {
-    background-color: white;
+    background-color: #E3A869;
 }
 
 
@@ -121,7 +123,13 @@ li a:hover {
     background-color: #111;
 }
 
+#top_padding{
 
+	padding-top: 2cm;
+	padding-bottom: 1cm;
+	
+
+}
 
 
 
